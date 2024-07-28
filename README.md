@@ -1,1 +1,2 @@
 # Shashank-s-Mini-Insta-Clone-Project
+Welcome to my Mini Insta Clone project! As a Frontend Developer, I designed and developed this application to replicate the core features of Instagram. Using HTML, CSS, and JavaScript along with React, this project demonstrates my ability to create a dynamic, responsive user interface with functionalities like photo sharing, liking, commenting, and user authentication. This project showcases my skills in modern web development and my attention to detail in creating engaging user experiences.
